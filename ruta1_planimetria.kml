@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Ruta del Arte y los Museos de Madrid</name>
+<Placemark>
+<name>Inicio: Ruta del Arte y los Museos de Madrid</name>
+<Point>
+<coordinates>-3.6923,40.4138,655</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Trazado: Ruta del Arte y los Museos de Madrid</name>
+<LineString>
+<coordinates>
+-3.6923,40.4138,655
+-3.6923,40.4138,655
+-3.6940,40.4150,652
+-3.6960,40.4162,651
+-3.6955,40.4100,648
+-3.6942,40.4085,645
+-3.6844,40.4153,658
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Museo del Prado</name>
+<Point>
+<coordinates>-3.6923,40.4138,655</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fuente de Neptuno</name>
+<Point>
+<coordinates>-3.6940,40.4150,652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Museo Thyssen-Bornemisza</name>
+<Point>
+<coordinates>-3.6960,40.4162,651</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>CaixaForum Madrid</name>
+<Point>
+<coordinates>-3.6955,40.4100,648</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Museo Reina Sofía</name>
+<Point>
+<coordinates>-3.6942,40.4085,645</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Parque del Retiro</name>
+<Point>
+<coordinates>-3.6844,40.4153,658</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rutas>
+
+   <ruta>
+       <nombre>Ruta del Arte y los Museos de Madrid</nombre>
+       <tipo>Cultural</tipo>
+       <transporte>A pie</transporte>
+       <fechaInicio opcional="si">2026-05-01</fechaInicio>
+       <horaInicio opcional="si">10:00</horaInicio>
+       <duracion>3 horas</duracion>
+       <agencia>Sin agencia</agencia>
+       <descripcion>Recorrido por el Paseo del Arte, considerado uno de los conjuntos
+       museísticos más importantes del mundo. Esta ruta conecta los tres grandes museos
+       del arte madrileño: el Prado, el Thyssen-Bornemisza y el Reina Sofía, pasando
+       por espacios emblemáticos como la Fuente de Neptuno y el Parque del Retiro.</descripcion>
+       <personas>Familias con niños, adultos, turistas culturales, amantes del arte</personas>
+       <lugarInicio>Museo del Prado</lugarInicio>
+       <direccionInicio>Paseo del Prado, s/n, Madrid</direccionInicio>
+       <coordenadasInicio>
+           <lon>-3.6923</lon>
+           <lat>40.4138</lat>
+           <alt>655</alt>
+       </coordenadasInicio>
+       <referencias>
+           <referencia>https://www.museodelprado.es/</referencia>
+           <referencia>https://es.wikipedia.org/wiki/Paseo_del_Arte</referencia>
+           <referencia>https://www.esmadrid.com/informacion-turistica/paseo-del-arte</referencia>
+       </referencias>
+       <recomendacion>9</recomendacion>
+       <hitos>
+           <hito>
+               <nombre>Museo del Prado</nombre>
+               <descripcion>Uno de los museos de arte más importantes del mundo, con obras
+               de Velázquez, Goya, El Greco y Rubens entre su colección.</descripcion>
+               <coordenadas>
+                   <lon>-3.6923</lon>
+                   <lat>40.4138</lat>
+                   <alt>655</alt>
+               </coordenadas>
+               <distancia unidades="metros">0</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta1_prado.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Fuente de Neptuno</nombre>
+               <descripcion>Fuente neoclásica que representa al dios romano del mar Neptuno.
+               Símbolo del equipo Atlético de Madrid, donde sus aficionados celebran
+               los títulos.</descripcion>
+               <coordenadas>
+                   <lon>-3.6940</lon>
+                   <lat>40.4150</lat>
+                   <alt>652</alt>
+               </coordenadas>
+               <distancia unidades="metros">200</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta1_neptuno.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Museo Thyssen-Bornemisza</nombre>
+               <descripcion>Alberga una de las colecciones privadas de arte más importantes
+               del mundo, con obras desde el siglo XIII hasta el arte contemporáneo.</descripcion>
+               <coordenadas>
+                   <lon>-3.6960</lon>
+                   <lat>40.4162</lat>
+                   <alt>651</alt>
+               </coordenadas>
+               <distancia unidades="metros">300</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta1_thyssen.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>CaixaForum Madrid</nombre>
+               <descripcion>Centro cultural ubicado en una antigua central eléctrica
+               rehabilitada. Destaca por su jardín vertical de Patrick Blanc y su
+               llamativa arquitectura.</descripcion>
+               <coordenadas>
+                   <lon>-3.6955</lon>
+                   <lat>40.4100</lat>
+                   <alt>648</alt>
+               </coordenadas>
+               <distancia unidades="metros">400</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta1_caixaforum.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Museo Reina Sofía</nombre>
+               <descripcion>Principal museo nacional de arte del siglo XX. Alberga el
+               Guernica de Picasso y obras de Dalí, Miró y otros artistas contemporáneos.</descripcion>
+               <coordenadas>
+                   <lon>-3.6942</lon>
+                   <lat>40.4085</lat>
+                   <alt>645</alt>
+               </coordenadas>
+               <distancia unidades="metros">600</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta1_reinasofia.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Parque del Retiro</nombre>
+               <descripcion>Parque histórico en el corazón de Madrid. Patrimonio Mundial
+               de la UNESCO desde 2021. Destaca el Palacio de Cristal, el estanque
+               y la Rosaleda.</descripcion>
+               <coordenadas>
+                   <lon>-3.6844</lon>
+                   <lat>40.4153</lat>
+                   <alt>658</alt>
+               </coordenadas>
+               <distancia unidades="metros">700</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta1_retiro.jpg</foto>
+               </galeriaFotos>
+           </hito>
+       </hitos>
+       <planimetria>xml/ruta1_planimetria.kml</planimetria>
+       <altimetria>xml/ruta1_altimetria.svg</altimetria>
+   </ruta>
+
+   <ruta>
+       <nombre>Ruta Histórica: Madrid de los Austrias</nombre>
+       <tipo>Histórica</tipo>
+       <transporte>A pie</transporte>
+       <fechaInicio opcional="si">2026-05-01</fechaInicio>
+       <horaInicio opcional="si">09:00</horaInicio>
+       <duracion>4 horas</duracion>
+       <agencia>Madrid Turismo</agencia>
+       <descripcion>Recorrido por el corazón histórico de Madrid, desde la emblemática
+       Puerta del Sol hasta el majestuoso Palacio Real. Esta ruta atraviesa los principales
+       monumentos y espacios del Madrid de los siglos XVI y XVII, incluyendo la Plaza Mayor,
+       el Mercado de San Miguel y la Catedral de la Almudena.</descripcion>
+       <personas>Todos los públicos, familias, turistas de historia</personas>
+       <lugarInicio>Puerta del Sol</lugarInicio>
+       <direccionInicio>Puerta del Sol, s/n, Madrid</direccionInicio>
+       <coordenadasInicio>
+           <lon>-3.7035</lon>
+           <lat>40.4169</lat>
+           <alt>650</alt>
+       </coordenadasInicio>
+       <referencias>
+           <referencia>https://www.esmadrid.com/informacion-turistica/puerta-del-sol</referencia>
+           <referencia>https://es.wikipedia.org/wiki/Madrid_de_los_Austrias</referencia>
+           <referencia>https://www.patrimonionacional.es/real-sitio/palacio-real-de-madrid</referencia>
+       </referencias>
+       <recomendacion>10</recomendacion>
+       <hitos>
+           <hito>
+               <nombre>Puerta del Sol</nombre>
+               <descripcion>Plaza central de Madrid y kilómetro 0 de las carreteras radiales
+               de España. Lugar emblemático donde se celebra la Nochevieja madrileña.</descripcion>
+               <coordenadas>
+                   <lon>-3.7035</lon>
+                   <lat>40.4169</lat>
+                   <alt>650</alt>
+               </coordenadas>
+               <distancia unidades="metros">0</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta2_sol.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Plaza Mayor</nombre>
+               <descripcion>Plaza porticada del siglo XVII, corazón del Madrid histórico.
+               Escenario de corridas de toros, torneos y ejecuciones en tiempos pasados.
+               Hoy alberga mercados, restaurantes y la estatua de Felipe III.</descripcion>
+               <coordenadas>
+                   <lon>-3.7074</lon>
+                   <lat>40.4155</lat>
+                   <alt>648</alt>
+               </coordenadas>
+               <distancia unidades="metros">400</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta2_mayor.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Mercado de San Miguel</nombre>
+               <descripcion>Mercado de hierro del siglo XX restaurado como mercado gourmet.
+               Ofrece una amplia variedad de tapas, pintxos, vinos y productos artesanales.</descripcion>
+               <coordenadas>
+                   <lon>-3.7087</lon>
+                   <lat>40.4151</lat>
+                   <alt>647</alt>
+               </coordenadas>
+               <distancia unidades="metros">100</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta2_sanmiguel.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Palacio Real de Madrid</nombre>
+               <descripcion>Residencia oficial de los Reyes de España. Es el palacio real
+               más grande de Europa Occidental por superficie. Construido en el siglo XVIII
+               en estilo barroco italiano.</descripcion>
+               <coordenadas>
+                   <lon>-3.7143</lon>
+                   <lat>40.4178</lat>
+                   <alt>660</alt>
+               </coordenadas>
+               <distancia unidades="metros">1000</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta2_palacioreal.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Catedral de la Almudena</nombre>
+               <descripcion>Catedral católica de Madrid, dedicada a la patrona de la ciudad.
+               Su construcción duró más de un siglo (1879-1993). Destaca su cripta neorrománica
+               y sus vidrieras de colores.</descripcion>
+               <coordenadas>
+                   <lon>-3.7143</lon>
+                   <lat>40.4161</lat>
+                   <alt>658</alt>
+               </coordenadas>
+               <distancia unidades="metros">100</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta2_almudena.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Teatro Real</nombre>
+               <descripcion>Principal teatro de ópera de España. Inaugurado en 1850,
+               ha sido uno de los teatros más importantes de Europa. Su fachada neoclásica
+               domina la Plaza de Oriente.</descripcion>
+               <coordenadas>
+                   <lon>-3.7089</lon>
+                   <lat>40.4180</lat>
+                   <alt>655</alt>
+               </coordenadas>
+               <distancia unidades="metros">600</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta2_teatroreal.jpg</foto>
+               </galeriaFotos>
+           </hito>
+       </hitos>
+       <planimetria>xml/ruta2_planimetria.kml</planimetria>
+       <altimetria>xml/ruta2_altimetria.svg</altimetria>
+   </ruta>
+
+   <ruta>
+       <nombre>Ruta Moderna: Gran Vía y Madrid Contemporáneo</nombre>
+       <tipo>Arquitectura y monumentos</tipo>
+       <transporte>A pie</transporte>
+       <fechaInicio opcional="si">2026-05-01</fechaInicio>
+       <horaInicio opcional="si">11:00</horaInicio>
+       <duracion>2 horas 30 minutos</duracion>
+       <agencia>Sin agencia</agencia>
+       <descripcion>Recorrido por la Gran Vía madrileña y los alrededores de la Plaza
+       de España hasta la Plaza de Cibeles. Esta ruta muestra la arquitectura modernista
+       y ecléctica del Madrid del siglo XX, pasando por el mítico Templo de Debod,
+       el edificio Metrópolis y la fuente de Cibeles.</descripcion>
+       <personas>Todos los públicos, amantes de la arquitectura</personas>
+       <lugarInicio>Plaza de España</lugarInicio>
+       <direccionInicio>Plaza de España, s/n, Madrid</direccionInicio>
+       <coordenadasInicio>
+           <lon>-3.7125</lon>
+           <lat>40.4235</lat>
+           <alt>648</alt>
+       </coordenadasInicio>
+       <referencias>
+           <referencia>https://www.esmadrid.com/informacion-turistica/gran-via</referencia>
+           <referencia>https://es.wikipedia.org/wiki/Gran_V%C3%ADa_(Madrid)</referencia>
+           <referencia>https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Museos-y-monumentos/Templo-de-Debod</referencia>
+       </referencias>
+       <recomendacion>8</recomendacion>
+       <hitos>
+           <hito>
+               <nombre>Plaza de España</nombre>
+               <descripcion>Gran plaza madrileña dominada por el Edificio España y la Torre
+               de Madrid. En su centro destaca un monumento a Miguel de Cervantes con las
+               estatuas de Don Quijote y Sancho Panza.</descripcion>
+               <coordenadas>
+                   <lon>-3.7125</lon>
+                   <lat>40.4235</lat>
+                   <alt>648</alt>
+               </coordenadas>
+               <distancia unidades="metros">0</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta3_plazaespana.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Templo de Debod</nombre>
+               <descripcion>Templo egipcio del siglo II a.C. donado por Egipto a España
+               en agradecimiento por la ayuda prestada en el salvamento de los templos
+               de Nubia. Ofrece unas vistas espectaculares del atardecer madrileño.</descripcion>
+               <coordenadas>
+                   <lon>-3.7173</lon>
+                   <lat>40.4248</lat>
+                   <alt>662</alt>
+               </coordenadas>
+               <distancia unidades="metros">300</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta3_debod.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Gran Vía</nombre>
+               <descripcion>La calle más emblemática de Madrid, conocida como el Broadway
+               español. Construida entre 1910 y 1952, alberga teatros, hoteles, edificios
+               modernistas y comercios de todo tipo.</descripcion>
+               <coordenadas>
+                   <lon>-3.7001</lon>
+                   <lat>40.4202</lat>
+                   <alt>655</alt>
+               </coordenadas>
+               <distancia unidades="metros">800</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta3_granvia.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Edificio Metrópolis</nombre>
+               <descripcion>Icónico edificio de principios del siglo XX ubicado en la
+               confluencia de la Gran Vía y la calle de Alcalá. Su cúpula de zinc y
+               su estatua alada son uno de los símbolos de Madrid.</descripcion>
+               <coordenadas>
+                   <lon>-3.6982</lon>
+                   <lat>40.4196</lat>
+                   <alt>653</alt>
+               </coordenadas>
+               <distancia unidades="metros">200</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta3_metropolis.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Fuente de Cibeles</nombre>
+               <descripcion>Una de las fuentes más emblemáticas de Madrid. Representa
+               a la diosa Cibeles sobre un carro tirado por leones. Es el símbolo del
+               Real Madrid, donde sus seguidores celebran los títulos.</descripcion>
+               <coordenadas>
+                   <lon>-3.6920</lon>
+                   <lat>40.4195</lat>
+                   <alt>650</alt>
+               </coordenadas>
+               <distancia unidades="metros">500</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta3_cibeles.jpg</foto>
+               </galeriaFotos>
+           </hito>
+           <hito>
+               <nombre>Puerta de Alcalá</nombre>
+               <descripcion>Monumental arco neoclásico mandado construir por Carlos III
+               en 1778. Una de las primeras puertas monumentales de Europa construida
+               fuera de los límites de la muralla de una ciudad.</descripcion>
+               <coordenadas>
+                   <lon>-3.6883</lon>
+                   <lat>40.4196</lat>
+                   <alt>645</alt>
+               </coordenadas>
+               <distancia unidades="metros">400</distancia>
+               <galeriaFotos>
+                   <foto>multimedia/ruta3_alcala.jpg</foto>
+               </galeriaFotos>
+           </hito>
+       </hitos>
+       <planimetria>xml/ruta3_planimetria.kml</planimetria>
+       <altimetria>xml/ruta3_altimetria.svg</altimetria>
+   </ruta>
+
+</rutas>

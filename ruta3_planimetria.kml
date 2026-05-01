@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Ruta Moderna: Gran Vía y Madrid Contemporáneo</name>
+<Placemark>
+<name>Inicio: Ruta Moderna: Gran Vía y Madrid Contemporáneo</name>
+<Point>
+<coordinates>-3.7125,40.4235,648</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Trazado: Ruta Moderna: Gran Vía y Madrid Contemporáneo</name>
+<LineString>
+<coordinates>
+-3.7125,40.4235,648
+-3.7125,40.4235,648
+-3.7173,40.4248,662
+-3.7001,40.4202,655
+-3.6982,40.4196,653
+-3.6920,40.4195,650
+-3.6883,40.4196,645
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Plaza de España</name>
+<Point>
+<coordinates>-3.7125,40.4235,648</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Templo de Debod</name>
+<Point>
+<coordinates>-3.7173,40.4248,662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gran Vía</name>
+<Point>
+<coordinates>-3.7001,40.4202,655</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Edificio Metrópolis</name>
+<Point>
+<coordinates>-3.6982,40.4196,653</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fuente de Cibeles</name>
+<Point>
+<coordinates>-3.6920,40.4195,650</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Puerta de Alcalá</name>
+<Point>
+<coordinates>-3.6883,40.4196,645</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

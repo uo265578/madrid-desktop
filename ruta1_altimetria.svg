@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300">
+<title>Ruta del Arte y los Museos de Madrid</title>
+<rect width="700" height="300" fill="#fafaf8" stroke="#cccccc" stroke-width="1"/>
+<text x="350" y="15" text-anchor="middle" font-family="Arial" font-size="13" fill="#8b1a1a">Altimetría: Ruta del Arte y los Museos de Madrid</text>
+<line x1="60" y1="250" x2="680" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="253" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">640m</text>
+<line x1="60" y1="197" x2="680" y2="197" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="200" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">647m</text>
+<line x1="60" y1="143" x2="680" y2="143" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="146" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">654m</text>
+<line x1="60" y1="89" x2="680" y2="89" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="92" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">661m</text>
+<line x1="60" y1="35" x2="680" y2="35" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="38" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">668m</text>
+<line x1="60" y1="35" x2="60" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="60" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">0m</text>
+<line x1="60" y1="35" x2="60" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="60" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">0m</text>
+<line x1="116" y1="35" x2="116" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="116" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">200m</text>
+<line x1="200" y1="35" x2="200" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="200" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">500m</text>
+<line x1="313" y1="35" x2="313" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="313" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">900m</text>
+<line x1="482" y1="35" x2="482" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="482" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">1500m</text>
+<line x1="680" y1="35" x2="680" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="680" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">2200m</text>
+<polyline points="60,135 60,135 116,158 200,166 313,189 482,212 680,112 680,250 60,250" fill="#ffcccc" fill-opacity="0.4" stroke="#8b1a1a" stroke-width="2"/>
+<circle cx="60" cy="135" r="4" fill="#8b1a1a"/>
+<text x="60" y="127" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Inicio</text>
+<circle cx="60" cy="135" r="4" fill="#8b1a1a"/>
+<text x="60" y="127" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Museo del Prado</text>
+<circle cx="116" cy="158" r="4" fill="#8b1a1a"/>
+<text x="116" y="150" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Fuente de Neptu</text>
+<circle cx="200" cy="166" r="4" fill="#8b1a1a"/>
+<text x="200" y="158" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Museo Thyssen-B</text>
+<circle cx="313" cy="189" r="4" fill="#8b1a1a"/>
+<text x="313" y="181" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">CaixaForum Madr</text>
+<circle cx="482" cy="212" r="4" fill="#8b1a1a"/>
+<text x="482" y="204" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Museo Reina Sof</text>
+<circle cx="680" cy="112" r="4" fill="#8b1a1a"/>
+<text x="680" y="104" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Parque del Reti</text>
+<text x="350" y="295" text-anchor="middle" font-family="Arial" font-size="10" fill="#1a1a1a">Distancia (m)</text>
+<text x="12" y="150" text-anchor="middle" font-family="Arial" font-size="10" fill="#1a1a1a" transform="rotate(-90, 12, 150)">Altitud (m)</text>
+</svg>

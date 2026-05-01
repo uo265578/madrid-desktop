@@ -1,0 +1,114 @@
+/* Santiago Fidalgo Sallés - UO265578 */
+/* Estilos de posicionamiento del proyecto Madrid-Desktop */
+
+/* Especificidad: 0,0,1 */
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5em;
+ }
+ 
+ /* Especificidad: 0,0,2 */
+ header h1 {
+    flex-shrink: 0;
+ }
+ 
+ /* Especificidad: 0,0,2 */
+ header nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.8em;
+    align-items: center;
+ }
+ 
+ /* Especificidad: 0,0,1 */
+ main {
+    min-height: 60vh;
+ }
+ 
+ /* Especificidad: 0,0,2 */
+ main section {
+    display: block;
+ }
+ 
+ /* Mapa dinámico - se permite el uso de div para mapas */
+ /* Especificidad: 0,0,2 */
+ body > div,
+ main div {
+    width: 100%;
+    height: 25em;
+    margin: 1em 0;
+ }
+ 
+ @media (min-width: 320px) and (max-width: 799px) {
+ 
+    /* Redefinición de flex-direction de header - media query */
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0.8em 1em;
+    }
+ 
+    /* Redefinición de gap de header nav - media query */
+    header nav {
+        gap: 0.5em;
+    }
+ 
+    /* Ocultar migas de navegación en móvil */
+    main > p:first-child {
+        display: none;
+    }
+ 
+    /* Redefinición de padding de main - media query */
+    main {
+        padding: 1em;
+    }
+ 
+    video {
+        width: 100%;
+        height: auto;
+    }
+ 
+    audio {
+        width: 100%;
+    }
+ 
+    /* Redefinición de height para mapas en móvil - media query */
+    body > div,
+    main div {
+        height: 18em;
+    }
+ 
+    /* Tabla adaptable - cambio de diseño en móvil */
+    /* Redefinición de display de tabla en móvil - media query */
+    main table,
+    main table thead,
+    main table tbody,
+    main table th,
+    main table td,
+    main table tr {
+        display: block;
+    }
+ 
+    /* Redefinición de display de thead en móvil - media query */
+    main table thead {
+        display: none;
+    }
+ 
+    /* Redefinición de padding de td en móvil - media query */
+    main table td {
+        padding: 0.4em 0.6em;
+        border-bottom: none;
+    }
+ 
+    /* Redefinición de border de tr en móvil - media query */
+    main table tr {
+        border: 0.05em solid #cccccc;
+        margin-bottom: 0.8em;
+        border-radius: 0.3em;
+    }
+ }

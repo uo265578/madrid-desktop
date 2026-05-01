@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Ruta Histórica: Madrid de los Austrias</name>
+<Placemark>
+<name>Inicio: Ruta Histórica: Madrid de los Austrias</name>
+<Point>
+<coordinates>-3.7035,40.4169,650</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Trazado: Ruta Histórica: Madrid de los Austrias</name>
+<LineString>
+<coordinates>
+-3.7035,40.4169,650
+-3.7035,40.4169,650
+-3.7074,40.4155,648
+-3.7087,40.4151,647
+-3.7143,40.4178,660
+-3.7143,40.4161,658
+-3.7089,40.4180,655
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Puerta del Sol</name>
+<Point>
+<coordinates>-3.7035,40.4169,650</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Plaza Mayor</name>
+<Point>
+<coordinates>-3.7074,40.4155,648</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mercado de San Miguel</name>
+<Point>
+<coordinates>-3.7087,40.4151,647</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Palacio Real de Madrid</name>
+<Point>
+<coordinates>-3.7143,40.4178,660</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Catedral de la Almudena</name>
+<Point>
+<coordinates>-3.7143,40.4161,658</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Teatro Real</name>
+<Point>
+<coordinates>-3.7089,40.4180,655</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

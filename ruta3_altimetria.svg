@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300">
+<title>Ruta Moderna: Gran Vía y Madrid Contemporáneo</title>
+<rect width="700" height="300" fill="#fafaf8" stroke="#cccccc" stroke-width="1"/>
+<text x="350" y="15" text-anchor="middle" font-family="Arial" font-size="13" fill="#8b1a1a">Altimetría: Ruta Moderna: Gran Vía y Madrid Contemporáneo</text>
+<line x1="60" y1="250" x2="680" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="253" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">640m</text>
+<line x1="60" y1="197" x2="680" y2="197" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="200" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">648m</text>
+<line x1="60" y1="143" x2="680" y2="143" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="146" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">656m</text>
+<line x1="60" y1="89" x2="680" y2="89" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="92" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">664m</text>
+<line x1="60" y1="35" x2="680" y2="35" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="57" y="38" text-anchor="end" font-family="Arial" font-size="9" fill="#1a1a1a">672m</text>
+<line x1="60" y1="35" x2="60" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="60" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">0m</text>
+<line x1="60" y1="35" x2="60" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="60" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">0m</text>
+<line x1="144" y1="35" x2="144" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="144" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">300m</text>
+<line x1="370" y1="35" x2="370" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="370" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">1100m</text>
+<line x1="426" y1="35" x2="426" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="426" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">1300m</text>
+<line x1="567" y1="35" x2="567" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="567" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">1800m</text>
+<line x1="680" y1="35" x2="680" y2="250" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="680" y="262" text-anchor="middle" font-family="Arial" font-size="9" fill="#1a1a1a">2200m</text>
+<polyline points="60,197 60,197 144,103 370,150 426,163 567,183 680,217 680,250 60,250" fill="#ffcccc" fill-opacity="0.4" stroke="#8b1a1a" stroke-width="2"/>
+<circle cx="60" cy="197" r="4" fill="#8b1a1a"/>
+<text x="60" y="189" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Inicio</text>
+<circle cx="60" cy="197" r="4" fill="#8b1a1a"/>
+<text x="60" y="189" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Plaza de España</text>
+<circle cx="144" cy="103" r="4" fill="#8b1a1a"/>
+<text x="144" y="95" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Templo de Debod</text>
+<circle cx="370" cy="150" r="4" fill="#8b1a1a"/>
+<text x="370" y="142" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Gran Vía</text>
+<circle cx="426" cy="163" r="4" fill="#8b1a1a"/>
+<text x="426" y="155" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Edificio Metróp</text>
+<circle cx="567" cy="183" r="4" fill="#8b1a1a"/>
+<text x="567" y="175" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Fuente de Cibel</text>
+<circle cx="680" cy="217" r="4" fill="#8b1a1a"/>
+<text x="680" y="209" text-anchor="middle" font-family="Arial" font-size="8" fill="#5b0e0e">Puerta de Alcal</text>
+<text x="350" y="295" text-anchor="middle" font-family="Arial" font-size="10" fill="#1a1a1a">Distancia (m)</text>
+<text x="12" y="150" text-anchor="middle" font-family="Arial" font-size="10" fill="#1a1a1a" transform="rotate(-90, 12, 150)">Altitud (m)</text>
+</svg>
