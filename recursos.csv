@@ -1,0 +1,6 @@
+id_recurso,nombre,tipo,precio,plazas_max
+1,Visita guiada Museo del Prado,Museo,25.00,20
+2,Tour Madrid Histórico,Ruta,15.00,25
+3,Ruta Gastronómica Madrileña,Gastronomía,45.00,15
+4,Visita guiada Palacio Real,Monumento,18.00,30
+5,Excursión El Escorial,Excursión,35.00,40
