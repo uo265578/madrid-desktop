@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html lang="es"><head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Santiago Fidalgo Sallés">
+    <meta name="description" content="Información de ayuda del portal Madrid-Desktop">
+    <meta name="keywords" content="ayuda, guía, manual, Madrid-Desktop, turismo, Madrid">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madrid-Desktop - Meteorología</title>
+    <link rel="stylesheet" type="text/css" href="estilo/estilo.css">
+    <link rel="stylesheet" type="text/css" href="estilo/layout.css">
+    <link rel="icon" href="multimedia/favicon.ico">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html" title="Volver a la página principal de Madrid-Desktop">Madrid-Desktop</a></h1>
+        <nav>
+            <a href="index.html" title="Página principal de Madrid-Desktop">Inicio</a>
+            <a href="gastronomia.html" title="Gastronomía típica de la provincia de Madrid">Gastronomía</a>
+            <a href="rutas.html" title="Rutas turísticas por la provincia de Madrid">Rutas</a>
+            <a href="meteorologia.html" class="activo" title="Meteorología en la provincia de Madrid">Meteorología</a>
+            <a href="juego.html" title="Juego de preguntas sobre Madrid">Juego</a>
+            <a href="reservas.php" title="Reserva recursos turísticos en Madrid">Reservas</a>
+            <a href="ayuda.html" title="Ayuda del portal Madrid-Desktop">Ayuda</a>
+        </nav>
+    </header>
+    <main>
+        <p>Estás en: <a href="index.html">Inicio</a> &gt; <strong>Meteorología</strong></p>
+        <h2>Meteorología en Madrid</h2>
+
+        <section>
+            <h3>Condiciones actuales en Madrid capital</h3>
+        </section>
+
+        <section>
+            <h3>Previsión para los próximos 7 días</h3>
+        </section>
+    </main>
+    <footer>
+        <p>Madrid-Desktop &copy; 2026 &ndash; Santiago Fidalgo Sallés &ndash; UO265578</p>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="js/meteorologia.js"></script>
+    <script>
+        (function() {
+            const meteorologia = new Meteorologia();
+            meteorologia.obtenerDatos();
+        })();
+    </script>
+    </body>
+    </html>
